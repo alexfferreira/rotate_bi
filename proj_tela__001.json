@@ -24,6 +24,11 @@
       "url": "https://app.powerbi.com/reportEmbed?reportId=468b8139-83e1-4f99-b9f4-f0603ad5f22f&autoAuth=true&ctid=f93f0be7-5cea-41a2-b6f3-1e9bf4b0e74f",
       "duration": 45,
       "tabReloadIntervalSeconds": 900
+    },
+    {
+      "url": "https://app.powerbi.com/reportEmbed?reportId=126f7447-d6ab-48e9-bf6c-0ad7583782c7&autoAuth=true&ctid=f93f0be7-5cea-41a2-b6f3-1e9bf4b0e74f",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 900
     }
   ]
 }
